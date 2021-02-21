@@ -1,0 +1,14 @@
+Atlanta Boston Brooklyn Charlotte Chicago
+Cleveland Dallas Denver Detroit Golden State
+Houston Indiana LA Clippers LA Lakers Memphis
+Miami Milwaukee Minnesota New Orleans New York
+Okla City Orlando Philadelphia Phoenix Portland
+Sacramento San Antonio Toronto Utah Washington
+	
+
+Toronto	Orlando	-6.5	215.5
+LA Clippers	Brooklyn	-2	242.5
+Memphis	Indiana	4.5	221.5
+Portland	Washington	2.5	241.5
+Detroit	Utah	12.5	218
+Boston	Golden State	-2.5	226.5
